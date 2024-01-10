@@ -1,0 +1,2714 @@
+{
+  "input_schema": {
+    "columnar_schema": [
+      {
+        "name": "rides_previous_672_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_671_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_670_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_669_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_668_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_667_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_666_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_665_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_664_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_663_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_662_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_661_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_660_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_659_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_658_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_657_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_656_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_655_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_654_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_653_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_652_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_651_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_650_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_649_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_648_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_647_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_646_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_645_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_644_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_643_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_642_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_641_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_640_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_639_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_638_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_637_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_636_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_635_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_634_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_633_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_632_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_631_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_630_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_629_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_628_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_627_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_626_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_625_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_624_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_623_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_622_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_621_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_620_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_619_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_618_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_617_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_616_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_615_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_614_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_613_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_612_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_611_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_610_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_609_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_608_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_607_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_606_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_605_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_604_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_603_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_602_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_601_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_600_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_599_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_598_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_597_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_596_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_595_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_594_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_593_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_592_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_591_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_590_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_589_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_588_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_587_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_586_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_585_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_584_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_583_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_582_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_581_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_580_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_579_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_578_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_577_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_576_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_575_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_574_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_573_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_572_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_571_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_570_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_569_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_568_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_567_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_566_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_565_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_564_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_563_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_562_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_561_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_560_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_559_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_558_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_557_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_556_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_555_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_554_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_553_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_552_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_551_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_550_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_549_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_548_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_547_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_546_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_545_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_544_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_543_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_542_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_541_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_540_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_539_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_538_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_537_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_536_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_535_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_534_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_533_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_532_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_531_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_530_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_529_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_528_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_527_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_526_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_525_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_524_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_523_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_522_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_521_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_520_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_519_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_518_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_517_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_516_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_515_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_514_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_513_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_512_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_511_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_510_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_509_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_508_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_507_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_506_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_505_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_504_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_503_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_502_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_501_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_500_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_499_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_498_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_497_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_496_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_495_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_494_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_493_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_492_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_491_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_490_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_489_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_488_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_487_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_486_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_485_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_484_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_483_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_482_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_481_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_480_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_479_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_478_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_477_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_476_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_475_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_474_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_473_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_472_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_471_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_470_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_469_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_468_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_467_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_466_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_465_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_464_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_463_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_462_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_461_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_460_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_459_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_458_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_457_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_456_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_455_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_454_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_453_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_452_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_451_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_450_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_449_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_448_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_447_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_446_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_445_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_444_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_443_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_442_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_441_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_440_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_439_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_438_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_437_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_436_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_435_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_434_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_433_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_432_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_431_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_430_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_429_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_428_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_427_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_426_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_425_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_424_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_423_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_422_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_421_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_420_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_419_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_418_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_417_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_416_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_415_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_414_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_413_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_412_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_411_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_410_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_409_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_408_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_407_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_406_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_405_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_404_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_403_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_402_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_401_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_400_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_399_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_398_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_397_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_396_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_395_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_394_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_393_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_392_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_391_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_390_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_389_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_388_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_387_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_386_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_385_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_384_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_383_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_382_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_381_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_380_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_379_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_378_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_377_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_376_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_375_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_374_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_373_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_372_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_371_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_370_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_369_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_368_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_367_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_366_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_365_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_364_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_363_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_362_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_361_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_360_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_359_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_358_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_357_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_356_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_355_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_354_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_353_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_352_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_351_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_350_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_349_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_348_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_347_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_346_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_345_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_344_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_343_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_342_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_341_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_340_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_339_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_338_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_337_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_336_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_335_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_334_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_333_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_332_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_331_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_330_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_329_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_328_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_327_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_326_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_325_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_324_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_323_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_322_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_321_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_320_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_319_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_318_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_317_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_316_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_315_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_314_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_313_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_312_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_311_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_310_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_309_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_308_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_307_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_306_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_305_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_304_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_303_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_302_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_301_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_300_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_299_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_298_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_297_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_296_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_295_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_294_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_293_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_292_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_291_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_290_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_289_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_288_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_287_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_286_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_285_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_284_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_283_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_282_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_281_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_280_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_279_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_278_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_277_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_276_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_275_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_274_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_273_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_272_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_271_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_270_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_269_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_268_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_267_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_266_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_265_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_264_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_263_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_262_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_261_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_260_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_259_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_258_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_257_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_256_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_255_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_254_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_253_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_252_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_251_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_250_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_249_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_248_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_247_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_246_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_245_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_244_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_243_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_242_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_241_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_240_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_239_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_238_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_237_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_236_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_235_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_234_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_233_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_232_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_231_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_230_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_229_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_228_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_227_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_226_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_225_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_224_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_223_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_222_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_221_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_220_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_219_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_218_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_217_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_216_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_215_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_214_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_213_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_212_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_211_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_210_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_209_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_208_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_207_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_206_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_205_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_204_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_203_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_202_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_201_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_200_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_199_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_198_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_197_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_196_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_195_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_194_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_193_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_192_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_191_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_190_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_189_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_188_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_187_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_186_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_185_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_184_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_183_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_182_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_181_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_180_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_179_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_178_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_177_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_176_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_175_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_174_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_173_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_172_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_171_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_170_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_169_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_168_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_167_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_166_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_165_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_164_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_163_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_162_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_161_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_160_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_159_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_158_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_157_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_156_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_155_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_154_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_153_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_152_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_151_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_150_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_149_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_148_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_147_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_146_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_145_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_144_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_143_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_142_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_141_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_140_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_139_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_138_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_137_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_136_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_135_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_134_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_133_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_132_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_131_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_130_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_129_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_128_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_127_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_126_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_125_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_124_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_123_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_122_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_121_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_120_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_119_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_118_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_117_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_116_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_115_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_114_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_113_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_112_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_111_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_110_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_109_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_108_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_107_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_106_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_105_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_104_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_103_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_102_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_101_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_100_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_99_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_98_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_97_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_96_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_95_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_94_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_93_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_92_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_91_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_90_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_89_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_88_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_87_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_86_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_85_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_84_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_83_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_82_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_81_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_80_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_79_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_78_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_77_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_76_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_75_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_74_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_73_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_72_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_71_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_70_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_69_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_68_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_67_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_66_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_65_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_64_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_63_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_62_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_61_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_60_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_59_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_58_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_57_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_56_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_55_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_54_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_53_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_52_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_51_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_50_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_49_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_48_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_47_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_46_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_45_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_44_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_43_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_42_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_41_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_40_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_39_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_38_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_37_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_36_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_35_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_34_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_33_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_32_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_31_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_30_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_29_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_28_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_27_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_26_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_25_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_24_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_23_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_22_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_21_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_20_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_19_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_18_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_17_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_16_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_15_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_14_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_13_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_12_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_11_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_10_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_9_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_8_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_7_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_6_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_5_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_4_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_3_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_2_hour",
+        "type": "float32"
+      },
+      {
+        "name": "rides_previous_1_hour",
+        "type": "float32"
+      },
+      {
+        "name": "pickup_hour",
+        "type": "datetime64[ns, UTC]"
+      },
+      {
+        "name": "pickup_location_id",
+        "type": "int64"
+      },
+      {
+        "name": "average_rides_last_4_weeks",
+        "type": "float32"
+      }
+    ]
+  },
+  "output_schema": {
+    "columnar_schema": [
+      {
+        "name": "target_rides_next_hour",
+        "type": "float32"
+      }
+    ]
+  }
+}
